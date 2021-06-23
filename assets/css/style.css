@@ -8,7 +8,7 @@ body {
     background-color: #d9dcd6;
 }
 
-/* apply styles to <header> */
+/* apply styles to header */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', arial, sans-serif;
@@ -24,7 +24,7 @@ header h1 {
 header h1 .seo {
     color: #d9dcd6;
 }
-
+/* styling of navigation links*/
 header nav {
     padding-top: 15px;
     margin-right: 20px;

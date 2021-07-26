@@ -10,6 +10,8 @@ HTML CSS
 https://honeysanghani.github.io/horiseon/
 
 ## Repository
+https://github.com/HoneySanghani/horiseon.git
+
 ## Output
 ![image](https://user-images.githubusercontent.com/48147515/123048276-3b808680-d3cc-11eb-8a74-0cf68498de62.png)
 
